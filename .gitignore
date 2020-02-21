@@ -1,0 +1,40 @@
+# Mac files
+.DS_Store
+.idea
+
+# Distribution
+env/
+build/
+.Python
+lib/
+lib64/
+
+# Django
+.log
+
+# Jupyter
+.ipnyb_checkpoints
+
+#Virtual Env
+.venv/
+venv/
+venv/*
+venv
+ENV/
+
+# IDE
+.spyderproject
+.vscode
+
+# DATA
+data/
+
+# PyCache
+__pycache__
+__pycache__/
+
+# Configuration Files
+local.env
+
+# IPython
+notebooks/
