@@ -28,6 +28,7 @@ ENV/
 
 # DATA
 data/
+videodataset/
 
 # PyCache
 __pycache__
@@ -38,3 +39,6 @@ local.env
 
 # IPython
 notebooks/
+
+# Locally added libraries
+additional_libraries/
